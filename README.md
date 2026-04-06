@@ -1,11 +1,12 @@
 ## Inteligência Artificial
 
+# TURMA: ESOFT7SN-A
+
 # ALUNOS:
   - Erick Oliveira
   - Andrei Luiz
   - Helder Augusto
   - Arthur Antonio
-
 # Atividades
 https://docs.google.com/presentation/d/1M2M5Mwh1Vd4CR6p-4OeFFI6d78GRnCwapq0QoQRQfNU/edit?slide=id.g39399a2968a_0_317#slide=id.g39399a2968a_0_317 
 
